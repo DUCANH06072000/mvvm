@@ -62,7 +62,11 @@
                     android:layout_width="match_parent"
                     android:layout_height="137dp"
                     android:layout_gravity="center"
+<<<<<<< HEAD
                     ></ViewFlipper>
+=======
+                   ></ViewFlipper>
+>>>>>>> 823795305ff68ee72adec37acfd586f60d789f28
             </LinearLayout>
         </LinearLayout>
     </androidx.drawerlayout.widget.DrawerLayout>
